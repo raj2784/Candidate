@@ -1,0 +1,13 @@
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
+
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+
+/* or below both are valid */
+@import "/node_modules/bootstrap/dist/css/bootstrap.css";
+
+body {
+  padding-top: 5rem; /* 5rem=5*16*/
+}
